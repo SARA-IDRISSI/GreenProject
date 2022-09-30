@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Oswald";
-    src: url(/font/Oswald-Regular.ttf);
+    src: url(/font/Oswald-ExtraLight.ttf);
 }
 
 header {
@@ -21,13 +21,17 @@ header div ul li {
 
 header ul li {
     position: relative;
-    right: 150px;
+    right: 30px;
     margin: 20px;
     padding-right: 20px;
-    padding-top: 20px;
+    padding-top: 40px;
     text-decoration: underline;
+    font-family: Oswald !important;
+    font-weight: bold;
+
 
 }
+
 
 h2 {
     color: #b8cb21;
